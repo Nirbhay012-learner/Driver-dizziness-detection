@@ -1,0 +1,6 @@
+﻿test_id,actual_event,warning_detected,closure_start_sec,warning_time_sec
+E01,0,0,,
+E02,0,0,,
+E03,1,1,,
+E04,1,1,,
+E05,0,0,,

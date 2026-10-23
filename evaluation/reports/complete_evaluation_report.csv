@@ -1,0 +1,31 @@
+Category,Section,Metric,Value
+Eye closure,Classification,Tests evaluated,5
+Eye closure,Classification,True positives,2
+Eye closure,Classification,False positives,0
+Eye closure,Classification,False negatives,0
+Eye closure,Classification,True negatives,3
+Eye closure,Classification,Accuracy (%),100.0
+Eye closure,Classification,Precision (%),100.0
+Eye closure,Classification,Recall (%),100.0
+Eye closure,Classification,F1-score (%),100.0
+Eye closure,Classification,False alarm rate (%),0.0
+Possible yawning,Classification,Tests evaluated,5
+Possible yawning,Classification,True positives,2
+Possible yawning,Classification,False positives,0
+Possible yawning,Classification,False negatives,0
+Possible yawning,Classification,True negatives,3
+Possible yawning,Classification,Accuracy (%),100.0
+Possible yawning,Classification,Precision (%),100.0
+Possible yawning,Classification,Recall (%),100.0
+Possible yawning,Classification,F1-score (%),100.0
+Possible yawning,Classification,False alarm rate (%),0.0
+Eye closure,Timing,Timing events,3
+Eye closure,Timing,Mean delay (seconds),1.542
+Eye closure,Timing,Median delay (seconds),1.508
+Eye closure,Timing,Minimum delay (seconds),1.503
+Eye closure,Timing,Maximum delay (seconds),1.615
+Possible yawning,Timing,Timing events,4
+Possible yawning,Timing,Mean delay (seconds),1.007
+Possible yawning,Timing,Median delay (seconds),1.007
+Possible yawning,Timing,Minimum delay (seconds),1.007
+Possible yawning,Timing,Maximum delay (seconds),1.008

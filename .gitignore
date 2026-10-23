@@ -1,0 +1,37 @@
+﻿# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Local runtime logs
+dashboard_detection_log.csv
+dashboard_event_timing_log.csv
+dashboard_event_timing_log_backup.csv
+detection_log.csv
+event_timing_log.csv
+
+# Temporary and editor files
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Local backup copies
+main_backup.py
+web_app_backup_before_csv_fix.py
+
+# Historical backups
+backup/
+
+# Historical backups
+backup/

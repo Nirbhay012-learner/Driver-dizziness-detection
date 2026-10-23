@@ -1,0 +1,11 @@
+test_id,actual_event,warning_detected,closure_start_sec,warning_time_sec
+T01,1,1,2.0,3.6
+T02,1,1,1.0,2.6
+T03,1,0,3.0,
+T04,1,1,2.0,3.7
+T05,0,0,,
+T06,0,1,,4.0
+T07,0,0,,
+T08,1,1,1.0,2.5
+T09,0,0,,
+T10,1,1,2.0,3.8

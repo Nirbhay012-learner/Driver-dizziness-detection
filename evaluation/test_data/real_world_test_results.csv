@@ -1,0 +1,15 @@
+
+test_id,condition,expected_result,actual_result,face_detected,ear_stable,mar_stable,warning_correct,notes
+RW01,Front-facing normal light,No warning,,,,,,
+RW02,Normal blinking,No prolonged eye warning,,,,,,
+RW03,Eyes closed over 1.5 seconds,Eye-closure warning,,,,,,
+RW04,Mouth open over 1 second,Possible-yawn warning,,,,,,
+RW05,Head tilted left,Face tracking continues,,,,,,
+RW06,Head tilted right,Face tracking continues,,,,,,
+RW07,Face turned slightly left,Face tracking continues,,,,,,
+RW08,Face turned slightly right,Face tracking continues,,,,,,
+RW09,Dim lighting,Track face and record stability,,,,,,
+RW10,Brighter lighting,Track face and record stability,,,,,,
+RW11,Glasses if applicable,Track eyes and record stability,,,,,,
+RW12,Face leaves frame,Face-not-detected message,,,,,,
+RW13,Face returns to frame,Detection resumes,,,,,,
